@@ -4,6 +4,5 @@ numpy
 streamlit
 seaborn
 matplotlib
-datetime
 geopandas
 sklearn
