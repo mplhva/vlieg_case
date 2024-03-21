@@ -3,10 +3,8 @@ pandas
 numpy
 streamlit
 seaborn
-matplotlib.pyplot
+matplotlib
 os
-shutil
-zipfile
 datetime
 geopandas
 sklearn
