@@ -5,4 +5,4 @@ streamlit
 seaborn
 matplotlib
 geopandas
-sklearn
+scikit-learn
