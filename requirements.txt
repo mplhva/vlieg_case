@@ -6,3 +6,4 @@ seaborn
 matplotlib
 geopandas
 scikit-learn
+folium
